@@ -1,11 +1,9 @@
-Author : Akshay Dholakiya
-# 🛒 Amazon Clone
+## Author : Akshay Dholakiya
 
-A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This project recreates the look and feel of Amazon's landing page to practice front-end web development, responsive layouts, and modern CSS techniques.
+A responsive **Amazon Homepage Clone** built using **HTML5** and **CSS3**. This project recreates the look and feel of Amazon's landing page to practice front-end web development and modern CSS techniques.
 
-## 🚀 Features
+## Features
 
-- Responsive Navigation Bar
 - Search Bar
 - Hero Banner
 - Product Categories Section
